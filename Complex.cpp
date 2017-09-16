@@ -1,5 +1,6 @@
-
-
+/*Author--> Vivek Singh Rathore.
+Date-->16-09-2017
+*/
 #include "Complex.h"
 
 void Complex::get(){
