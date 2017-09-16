@@ -1,6 +1,6 @@
 /*Author--> Vivek Singh Rathore.
 Date-->16-09-2017
-License--> GPL*/
+*/
 
 
 #include<iostream>
