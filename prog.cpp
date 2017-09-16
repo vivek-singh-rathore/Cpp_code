@@ -1,7 +1,6 @@
 /*Author--> Vivek Singh Rathore.
 Date-->16-09-2017
-*/
-
+Library demo*/
 
 #include<iostream>
 #include"Complex.h" //includes the header
