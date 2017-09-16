@@ -1,3 +1,6 @@
+/*Author--> Vivek Singh Rathore.
+Date-->16-09-2017
+Library demo*/
 #ifndef COMPLEX_H
 #define COMPLEX_H
 
